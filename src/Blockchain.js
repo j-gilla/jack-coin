@@ -1,3 +1,4 @@
+// @flow
 import React, { Component } from "react";
 import sha256 from "sha.js";
 import moment from "moment";
